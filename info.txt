@@ -1,0 +1,29 @@
+Bootstrap
+
+- framework - predefined code / readymade code = as it is
+- css framework
+- css - style/ color 
+- responsive website/webpages
+- tablet/desktop/ laptop/ mobile
+- class based structure
+
+
+
+1. git scm
+2. github account
+3. github + vs code
+4. github pull request extension
+
+git hub commands
+
+
+1. git init - inilizations -.git
+2. git add - file add 
+3. git commit   - save
+4. push - laptop to github account
+5. pull - github account to laptop/ updatation
+6. branch - 1 main - 
+7. remote add origin github repo link
+8. clone - copy paste
+9. fork - copy paste
+10. git status
